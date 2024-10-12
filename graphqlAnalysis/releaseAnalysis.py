@@ -139,6 +139,7 @@ def releaseRequest(
         result = gql.runGraphqlRequest(config.pat, query)
 
         # extract nodes
+        print(result)
         nodes = result["repository"]["releases"]["nodes"]
 
         # parse

@@ -26,6 +26,7 @@ def issueAnalysis(
     batchDates: List[datetime],
 ):
 
+    
     print("Querying issue comments")
     batches = issueRequest(
         config.pat, config.repositoryOwner, config.repositoryName, delta, batchDates

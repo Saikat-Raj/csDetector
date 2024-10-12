@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="daiyip@google.com" />
+    <node id="rechen@google.com" />
+    <node id="xingyousong@google.com" />
+    <node id="sinopalnikov@google.com" />
+    <node id="xuanyidong@google.com" />
+    <node id="no-reply@google.com" />
+    <node id="weide@google.com" />
+    <node id="chansoo@google.com" />
+    <edge source="daiyip@google.com" target="rechen@google.com" />
+    <edge source="daiyip@google.com" target="xingyousong@google.com" />
+    <edge source="daiyip@google.com" target="sinopalnikov@google.com" />
+    <edge source="daiyip@google.com" target="xuanyidong@google.com" />
+    <edge source="daiyip@google.com" target="no-reply@google.com" />
+    <edge source="daiyip@google.com" target="weide@google.com" />
+    <edge source="daiyip@google.com" target="chansoo@google.com" />
+    <edge source="rechen@google.com" target="no-reply@google.com" />
+    <edge source="rechen@google.com" target="xuanyidong@google.com" />
+    <edge source="rechen@google.com" target="xingyousong@google.com" />
+    <edge source="rechen@google.com" target="sinopalnikov@google.com" />
+    <edge source="xingyousong@google.com" target="no-reply@google.com" />
+    <edge source="sinopalnikov@google.com" target="no-reply@google.com" />
+    <edge source="sinopalnikov@google.com" target="xuanyidong@google.com" />
+    <edge source="xuanyidong@google.com" target="no-reply@google.com" />
+    <edge source="no-reply@google.com" target="chansoo@google.com" />
+  </graph>
+</graphml>
